@@ -3,4 +3,3 @@ kör
   sudo service mysql start
     om det bråkar starta services/tjänster i windows stoppa branchcache och starta om tjänster
   sudo service spache start
--
